@@ -39,3 +39,16 @@ Arduino UNO: Controlador principal.
 Motores Paso a Paso: Controlan el dispensador de comida y el compartimiento de premios.
 Celda de Carga con Amplificador HX711: Para medir la cantidad de comida en el plato.
 Buzzer: Indicador sonoro para el inicio de la dispensación.
+
+## BOSQUEJO E IMÁGENES AVANCE 1:
+![image](https://github.com/user-attachments/assets/e8bbbb23-a671-42c6-8a4f-35a1670bac96)
+![image](https://github.com/user-attachments/assets/7450f0f7-c12c-42ef-8026-837a8991bc73)
+![image](https://github.com/user-attachments/assets/6e9888ed-db87-4a20-8332-cd00af7eb798)
+![image](https://github.com/user-attachments/assets/109dac77-64e3-4ddb-883f-b5d90ae83ba4)
+![image](https://github.com/user-attachments/assets/bfcf04b0-2b1b-4605-9e28-6d878ccb0ff1)
+![image](https://github.com/user-attachments/assets/3ad54f91-e00a-445a-a5c3-a07b28a7a0de)
+![image](https://github.com/user-attachments/assets/894e4221-9122-44ce-8461-b04a2dc0d2d7)
+![image](https://github.com/user-attachments/assets/f1f2321a-0fce-45dd-b86f-6ec6c8633ddc)
+
+
+
