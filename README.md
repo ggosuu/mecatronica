@@ -51,4 +51,5 @@ Buzzer: Indicador sonoro para el inicio de la dispensación.
 ![image](https://github.com/user-attachments/assets/f1f2321a-0fce-45dd-b86f-6ec6c8633ddc)
 
 
-
+## Video explicativo:
+https://drive.google.com/drive/folders/1Fy-j_O2oXOxVf8DgTn-JzYnPky9xhUIK?usp=sharing
